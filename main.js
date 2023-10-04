@@ -14,7 +14,7 @@ fetch(dadosJson)
     const ctx = document.getElementById('grafico')
 
 new Chart(ctx, {
-  type: 'bar',
+  type: 'line',
   data: {
     labels: clube,
     datasets: [{
