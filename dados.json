@@ -1,0 +1,119 @@
+{
+    "titulos": [
+        {
+            "id": 1,
+            "nome": "Real Madrid",
+            "numero_titulos": 14
+        },
+        {
+            "id": 2,
+            "nome": "Milan",
+            "numero_titulos": 7
+        },
+        {
+            "id": 3,
+            "nome": "Liverpool",
+            "numero_titulos": 6
+        },
+        {
+            "id": 4,
+            "nome": "Bayern de Munique",
+            "numero_titulos": 6
+        },
+        {
+            "id": 5,
+            "nome": "Barcelona",
+            "numero_titulos": 5
+        },
+        {
+            "id": 6,
+            "nome": "Ajax",
+            "numero_titulos": 4
+        },
+        {
+            "id": 7,
+            "nome": "Manchester-United",
+            "numero_titulos": 3
+        },
+        {
+            "id": 8,
+            "nome": "Inter de Milão",
+            "numero_titulos": 3
+        },
+        {
+            "id": 9,
+            "nome": "Chelsea",
+            "numero_titulos": 2
+        },
+        {
+            "id": 10,
+            "nome": "Benfica",
+            "numero_titulos": 2
+        },
+        {
+            "id": 11,
+            "nome": "Nottingham Forest",
+            "numero_titulos": 2
+        },
+        {
+            "id": 12,
+            "nome": "Juventus",
+            "numero_titulos": 2
+        },
+        {
+            "id": 13,
+            "nome": "Porto",
+            "numero_titulos": 2
+        },
+        {
+            "id": 14,
+            "nome": "Manchester City",
+            "numero_titulos": 1
+        },
+        {
+            "id": 15,
+            "nome": "Celtic-SCO",
+            "numero_titulos": 1
+        },
+        {
+            "id": 16,
+            "nome": "Feyenoord",
+            "numero_titulos": 1
+        },
+        {
+            "id": 17,
+            "nome": "Aston Villa",
+            "numero_titulos": 1
+        },
+        {
+            "id": 18,
+            "nome": "Hamburgo-ALE",
+            "numero_titulos": 1
+        },
+        {
+            "id": 19,
+            "nome": "Steaua Bucareste-ROU",
+            "numero_titulos": 1
+        },
+        {
+            "id": 20,
+            "nome": "PSV",
+            "numero_titulos": 1
+        },
+        {
+            "id": 21,
+            "nome": "Estrela Vermelha-SRB",
+            "numero_titulos": 1
+        },
+        {
+            "id": 22,
+            "nome": "Olympique de Marseille",
+            "numero_titulos": 1
+        },
+        {
+            "id": 23,
+            "nome": "Borussia Dortmund-ALE",
+            "numero_titulos": 1
+        }
+    ]
+}
